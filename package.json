@@ -1,0 +1,22 @@
+{
+  "name": "npost",
+  "version": "1.0.0",
+  "description": "npost is an npm package for creating API calls.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reecemartin/npost.git"
+  },
+  "author": "Reece Martin",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/reecemartin/npost/issues"
+  },
+  "homepage": "https://github.com/reecemartin/npost#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
